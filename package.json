@@ -1,0 +1,11 @@
+{
+  "name": "express-ejs-temp",
+  "version": "1.0.0",
+  "description": "template for express/ejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "'test'"
+  },
+  "author": "jberry",
+  "license": "MIT"
+}
